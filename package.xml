@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>testbot</name>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <description>main testbot package</description>
   <maintainer email="phil@marble.io">Philip Freeman</maintainer>
   <license>TODO</license>
